@@ -16,7 +16,7 @@ if (storedCount === null) {
     console.log(count);
 }
 
-const maxCount = 10;
+const maxCount = 50;
 
 //Track team attendance
 const teamTotals = new Map();
